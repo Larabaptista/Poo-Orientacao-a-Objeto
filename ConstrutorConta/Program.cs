@@ -1,15 +1,15 @@
 ﻿// função Main()
 using ConstrutorConta;
 
-Conta c1 = new Conta();//construtor padrão
+Conta c1 = new Conta();//construtor padrão //iniciar variaveis da classe
 c1.MostrarAtributos();
 
 
-Conta c2 = new Conta(235);
+Conta c2 = new Conta(235); // um argumento (parametro) argumento - chamar o nome dos valores
 c2.MostrarAtributos();
 
 
-Conta c3 = new Conta(1,50);
+Conta c3 = new Conta(1,50); // dois argumentos
 c3.MostrarAtributos();
 
 
@@ -18,3 +18,4 @@ c4.MostrarAtributos();
 
 Console.WriteLine("Quantidade de instâncias: " + Conta.Contador);
 
+// instanciuar é o new conta(); é chamar uma variavel dentro da classe

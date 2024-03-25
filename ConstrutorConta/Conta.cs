@@ -15,6 +15,7 @@ namespace ConstrutorConta
         {
             Contador ++;
         }
+
         public Conta(int numero)
         {
             Numero = numero;
@@ -37,6 +38,10 @@ namespace ConstrutorConta
         {
             Console.WriteLine("Número: " + Numero +
             "\tTitular: " + Titular + "\tSaldo: "+ Saldo);
+        }
+        static Conta()
+        {
+            Contador = 1571000;
         }
     }
 }
