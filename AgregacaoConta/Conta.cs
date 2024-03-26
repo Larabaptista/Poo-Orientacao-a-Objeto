@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace POO_noite
+namespace AgregacaoConta
 {
     public class Conta
     {
     
-        public string Numero {get; set;}
-        public string Cliente Titular {get; set;}
-        public double saldo {get; set;}
+        public int Numero {get; set;}
+        public Cliente Titular {get; set;}
+        public double Saldo {get; set;}
+
 
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\bin\Debug\net6.0\POO noite.exe
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\bin\Debug\net6.0\POO noite.deps.json
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\bin\Debug\net6.0\POO noite.runtimeconfig.json
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\bin\Debug\net6.0\POO noite.dll
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\bin\Debug\net6.0\POO noite.pdb
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.dll
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\refint\POO noite.dll
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.pdb
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\POO noite.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\POO noite\AgregacaoConta\obj\Debug\net6.0\ref\POO noite.dll
